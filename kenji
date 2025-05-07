@@ -502,43 +502,43 @@ http://202.147.193.244/live/eds/IDX/sa_dash/IDX.mpd
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/OzEYGDL.png?v=1.0.0.1" group-title="CADANGAN 3" tvg-id="IndonesianaTV.id" tvg-name="Indonesiana TV", Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
 
-######################################### : CADANGAN 6 : #########################################
+######################################### : CADANGAN 4 : #########################################
 
-#EXTINF:-1  tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="CADANGAN 6",019. RCTI Live
+#EXTINF:-1  tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="CADANGAN 4",019. RCTI Live
 https://WahyuIPTV.short.gy/RcTi-HD
 
-#EXTINF:-1 group-title="CADANGAN 6" tvg-id="" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png",020. GTV
+#EXTINF:-1 group-title="CADANGAN 4" tvg-id="" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png",020. GTV
 https://WahyuIPTV.short.gy/gTv-HD
 
-#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="CADANGAN 6",021. MNC TV
+#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="CADANGAN 4",021. MNC TV
 https://wahyu1ptv.pages.dev/mNcTV-HD.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="MDTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MDTV.png" group-title="CADANGAN 6",022. MDTV-HD
+#EXTINF:-1 tvg-name="" tvg-id="MDTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MDTV.png" group-title="CADANGAN 4",022. MDTV-HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/MDTV-HD.m3u8
 
-#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" group-title="CADANGAN 6" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png",023. Trans 7
+#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" group-title="CADANGAN 4" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png",023. Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/Trans7-HD.m3u8
 
-#EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" group-title="CADANGAN 6" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",024. Trans TV
+#EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" group-title="CADANGAN 4" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",024. Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/TransTV-HD.m3u8
 
-#EXTINF:-1  tvg-id="SCTV" tvg-name="SCTV" group-title="CADANGAN 6" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png",025. ScTv
+#EXTINF:-1  tvg-id="SCTV" tvg-name="SCTV" group-title="CADANGAN 4" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png",025. ScTv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/SCTV-HD.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" group-title="CADANGAN 6" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png",026. Indosiar
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" group-title="CADANGAN 4" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png",026. Indosiar
 http://www.geocities.ws/wahyuiptv/IndoSiar-HD.m3u8
 
-#EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="CADANGAN 6",027. Moji TV
+#EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="CADANGAN 4",027. Moji TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/Moji-HD.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="ANTV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png" group-title="CADANGAN 6",028. AnTv
+#EXTINF:-1 tvg-name="" tvg-id="ANTV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png" group-title="CADANGAN 4",028. AnTv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/ANTV-HD.m3u8
 
-#EXTINF:-1 tvg-id="TVRI.IPTV" tvg-name="TVRI" group-title="CADANGAN 6" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png",029. TvRi
+#EXTINF:-1 tvg-id="TVRI.IPTV" tvg-name="TVRI" group-title="CADANGAN 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png",029. TvRi
 http://www.geocities.ws/wahyuiptv/TVRI-HD.m3u8
