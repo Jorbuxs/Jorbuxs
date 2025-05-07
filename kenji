@@ -1,79 +1,79 @@
 #TAKESHI COMPUTER_SIBOLGA_2025
 
-#EXTINF:-1 group-title="🔴 INDONESIA 🔴", tvg-logo="https://iili.io/2Qv4psI.png",TAKESHI COMPUTER
+#EXTINF:-1 group-title="💎 INDONESIA 💎", tvg-logo="https://iili.io/2Qv4psI.png",TAKESHI COMPUTER
 #EXTVLCOPT:network-caching=1000
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 ######################################### : INDONESIA : #########################################
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="🔴 INDONESIA 🔴",RCTI
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="💎 INDONESIA 💎",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1 group-title="🔴 INDONESIA 🔴" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
+#EXTINF:-1 group-title="💎 INDONESIA 💎" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="🔴 INDONESIA 🔴",GTV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="💎 INDONESIA 💎",GTV
 http://202.147.193.244/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="🔴 INDONESIA 🔴",ANTV
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="💎 INDONESIA 💎",ANTV
 https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="🔴 INDONESIA 🔴",INDOSIAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="💎 INDONESIA 💎",INDOSIAR
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="🔴 INDONESIA 🔴",SCTV
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="💎 INDONESIA 💎",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🔴 INDONESIA 🔴",TRANS TV
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="💎 INDONESIA 💎",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="🔴 INDONESIA 🔴",Trans 7
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="💎 INDONESIA 💎",Trans 7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rlzvdcL.png?v=1.1.1.1" group-title="🔴 INDONESIA 🔴",Kompas TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rlzvdcL.png?v=1.1.1.1" group-title="💎 INDONESIA 💎",Kompas TV
 https://warningfm.github.io/v3/live/str/id/ae5f9d6bcd610b6.m3u8
 
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fd77alx.png?v=1.0.0.1" group-title="🔴 INDONESIA 🔴", Metro TV
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/fd77alx.png?v=1.0.0.1" group-title="💎 INDONESIA 💎", Metro TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="🔴 INDONESIA 🔴", NET TV
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/08/13/nentv.jpg" group-title="💎 INDONESIA 💎", NET TV
 https://warningfm.github.io/v3/live/str/id/6cdb3402d11f58d.m3u8
 
-#EXTINF:-1 group-title="🔴 INDONESIA 🔴" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVONE
+#EXTINF:-1 group-title="💎 INDONESIA 💎" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVONE
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
 
-#EXTINF:-1 group-title="🔴 INDONESIA 🔴" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg",BTV
+#EXTINF:-1 group-title="💎 INDONESIA 💎" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="🔴 INDONESIA 🔴" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png",BERITA SATU TV
+#EXTINF:-1 group-title="💎 INDONESIA 💎" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png",BERITA SATU TV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 
-#EXTINF:-1 group-title="🔴 INDONESIA 🔴" tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN Indonesia
+#EXTINF:-1 group-title="💎 INDONESIA 💎" tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t8X3LHn/maxstream.png" group-title="🔴 INDONESIA 🔴", MAXSTREAM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/t8X3LHn/maxstream.png" group-title="💎 INDONESIA 💎", MAXSTREAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 group-title="🔴 INDONESIA 🔴" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy1AOcooM4LjpwqUox8eEYdb_EbclFdH62221rAGNXJIL-lpcfvZTtSfn46lP2FIHw6mDQOJ2ZpyW4tI8Q0gGrjU-q1ybM8tZcwLOoJxNmr-k9PZOjSCgJxs1lPKryhP28HguIlPdb0wvw46GbcmNRGn9gSzXhM8bdBZHAHKmQbTxCP87rOTamc46xbQ/s1600/rctv%20%281%29.jpg",RCTV
+#EXTINF:-1 group-title="💎 INDONESIA 💎" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy1AOcooM4LjpwqUox8eEYdb_EbclFdH62221rAGNXJIL-lpcfvZTtSfn46lP2FIHw6mDQOJ2ZpyW4tI8Q0gGrjU-q1ybM8tZcwLOoJxNmr-k9PZOjSCgJxs1lPKryhP28HguIlPdb0wvw46GbcmNRGn9gSzXhM8bdBZHAHKmQbTxCP87rOTamc46xbQ/s1600/rctv%20%281%29.jpg",RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="🔴 INDONESIA 🔴",TV Kesehatan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="💎 INDONESIA 💎",TV Kesehatan
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tSKKlTw9GZ8/YMOFiEszsTI/AAAAAAAABEw/GhUUhvNY_nkU8rYzgmRCkoCwu0SWzm82gCLcBGAsYHQ/s0/XBtbPBF.png?v=1.0.0.1" group-title="🔴 INDONESIA 🔴",TVRI
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-tSKKlTw9GZ8/YMOFiEszsTI/AAAAAAAABEw/GhUUhvNY_nkU8rYzgmRCkoCwu0SWzm82gCLcBGAsYHQ/s0/XBtbPBF.png?v=1.0.0.1" group-title="💎 INDONESIA 💎",TVRI
 https://ott-balancer.tvri.go.id/live/eds/TAKESHI 3/hls/TAKESHI 3.m3u8
 
-#EXTINF:-1 group-title="🔴 INDONESIA 🔴" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png",TVRi SPORT
+#EXTINF:-1 group-title="💎 INDONESIA 💎" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png",TVRi SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 ######################################### : CADANGAN 1 : #########################################
