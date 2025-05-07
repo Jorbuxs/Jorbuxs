@@ -2,10 +2,7 @@
 
 #EXTINF:-1 group-title="INDONESIA", tvg-logo="https://iili.io/2Qv4psI.png",TAKESHI COMPUTER
 #EXTVLCOPT:network-caching=1000
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
-#EXTINF:-2 group-title="INDONESIA", tvg-logo="https://iili.io/2Qv4psI.png",085156665665
-#EXTVLCOPT:network-caching=1000
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 ######################################### ▶️ INDONESIA ◀️ #########################################
 
