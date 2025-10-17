@@ -1,12 +1,20 @@
 #TAKESHI COMPUTER_SIBOLGA_2025
 
+refresh="3600
+
 ######################################### : INDONESIA : #########################################
 #EXTINF:-1 group-title="💎 INDONESIA 💎", tvg-logo="https://iili.io/2Qv4psI.png",TAKESHI COMPUTER
 #EXTVLCOPT:network-caching=1000
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
+
+#EXTINF:-1 group-title="💎 INDONESIA 💎", tvg-logo="https://iili.io/2Qv4psI.png",UPDATE OKTOBER 2025
+#EXTVLCOPT:network-caching=1000
+https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="💎 INDONESIA 💎",RCTI
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://liveplus.rctiplus.id/RTMP-IN-avc1_2500000=7-mp4a_128000=2.m3u8
 
 #EXTINF:-1 group-title="💎 INDONESIA 💎" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
